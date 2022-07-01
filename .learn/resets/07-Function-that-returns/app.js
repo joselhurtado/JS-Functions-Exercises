@@ -6,8 +6,3 @@ var euroToYen = function(euroValue){
 }
 //***** YOUR CODE BELOW ↓ ******///
 
-const multy = (a,b) => {
-    return a*b;
-}
-
-console.log(dollarToEuro(1, 1) + euroToYen(1, 1) * 137)
