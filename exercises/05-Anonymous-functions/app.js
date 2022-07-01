@@ -1,6 +1,9 @@
-let multy = function(a,b){
-    return a*b;
-}
-//Dont edit anything ABOVE this line
+// Code Already Compiled
 
-//your code here
+let multy = function(x, y){
+    return x * y;
+}
+
+let result = multy(324234, 47)
+
+console.log(result);
